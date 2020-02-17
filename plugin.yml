@@ -1,0 +1,33 @@
+name: Tutorial
+
+api: [3.0.0, 4.0.0]
+
+version: 0.0.1
+
+main: Crow\xD\Main
+
+author:
+
+ - ceepkev77
+
+ - Crow balde
+
+load: STARTUP
+
+commands:
+
+  Heal:
+
+    description: §4Heal Plugin by Crow Balde
+
+    usage: "/Heal"
+
+    permission: Heal.rechte
+
+  YT:
+
+    description: §4YT
+
+    usage: "/YT"
+
+    permissions: YT.rechte
